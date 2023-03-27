@@ -3,4 +3,5 @@ info:
   author: dushkinmir
   version: 1.0.0
   description: Module for downloading video from youtube
+  src_url: https://github.com/dushkinmir/yt_module
   
