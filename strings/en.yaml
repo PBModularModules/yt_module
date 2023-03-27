@@ -1,0 +1,8 @@
+download:
+  ok: "<b>Video downloaded!</b> 😁"
+  error: "<b>An error occurred!</b> 😥"
+
+etc:
+  no_url: "<b>Url no exists!</b> 😒"
+  process: "<b>Video is downloading</b>"
+  not_url: "<b>This is not a link!</b> 😠"
