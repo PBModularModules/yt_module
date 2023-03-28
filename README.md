@@ -1,5 +1,8 @@
 # YT_downloader
-
-### Модуль для величайшего телеграм-бота [PBModular](https://github.com/PBModular/bot)
+![](https://img.shields.io/github/languages/code-size/dushkinmir/yt_module) ![](https://img.shields.io/github/license/dushkinmir/yt_module)
+### Модуль для величайшего телеграм-бота [PBModular](https://github.com/PBModular/bot)  
+Модуль просто скачивает видео в лучшем качестве (⁠⊃⁠｡⁠•́⁠‿⁠•̀⁠｡⁠)⁠⊃
 <br>
-<b>Установка: </b>/mod_install https://github.com/dushkinmir/yt_module
+
+## Установка
+<code>/mod_install https://github.com/dushkinmir/yt_module</code>
